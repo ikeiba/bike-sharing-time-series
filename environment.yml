@@ -13,3 +13,5 @@ dependencies:
   - pip
   - pip:
       - ucimlrepo
+      - statsmodels
+      - matplotlib
