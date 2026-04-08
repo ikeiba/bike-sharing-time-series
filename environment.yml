@@ -10,6 +10,9 @@ dependencies:
   - scikit-learn
   - jupyterlab
   - ipykernel
+  - pandas
+  - matplotlib
+  - seaborn
   - pip
   - pip:
       - ucimlrepo
