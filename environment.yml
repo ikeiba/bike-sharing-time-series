@@ -7,12 +7,13 @@ dependencies:
   - python=3.11
   - numpy
   - pandas
-  - scikit-learn
+  - scikit-learn = 1.5.2
   - jupyterlab
   - ipykernel
   - pandas
   - matplotlib
   - seaborn
+  - pmdarima
   - pip
   - pip:
       - ucimlrepo
