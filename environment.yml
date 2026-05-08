@@ -19,3 +19,4 @@ dependencies:
       - ucimlrepo
       - statsmodels
       - tqdm
+      - ipywidgets
