@@ -14,9 +14,11 @@ dependencies:
   - matplotlib
   - seaborn
   - pmdarima
+  - pytorch
   - pip
   - pip:
       - ucimlrepo
       - statsmodels
       - tqdm
       - ipywidgets
+      - git+https://github.com/amazon-science/chronos-forecasting.git
