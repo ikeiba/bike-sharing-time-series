@@ -207,3 +207,11 @@ marimo/_lsp/
 __marimo__/
 
 models/sarima*.pkl
+project_submission/model_cas_no_seas.pkl
+project_submission/model_cas_seas.pkl
+project_submission/model_cas_seas_exog.pkl
+project_submission/model_cas_seas_exog.zip
+project_submission/model_reg_no_seas.pkl
+project_submission/model_reg_seas.pkl
+project_submission/model_reg_seas_exog.pkl
+project_submission/preds_chronos.csv
